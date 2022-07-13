@@ -1,0 +1,15 @@
+section {
+    width: 80%;
+    margin: auto;
+    background-color: cadetblue;
+    color: aliceblue;
+    padding: 4em;
+}
+
+h1 {
+    width: 50%;
+}
+
+p {
+    width: 50%;
+}
